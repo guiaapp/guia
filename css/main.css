@@ -1,0 +1,166 @@
+
+body{
+	margin: 0 auto;
+	padding: 0 auto;
+	overflow-x: hidden;
+	background-size: 1366px 768px;
+	background-image: url(../img/bg/banaue.jpg);
+	background-repeat: no-repeat;
+}
+
+h1, h2, h3, h4, h5, h6{
+	margin: 0 auto;
+}
+
+.img-responsive{
+	margin: 0 auto;
+}
+
+
+.row-bg{
+	width: 100%
+}
+
+.row-bg-container{
+	width: 100%;	
+}
+
+.navbar{
+	border-radius: 0 !important;
+	padding-bottom: 0;
+	margin-bottom: 0;
+	border-bottom: 0;
+	background: rgba(0, 0, 0, 0.5);
+	height: 10%;
+}
+
+.navbar a{
+	color: #fff;
+}
+
+.navbar a:hover{
+	color: #fdfd4d;
+}
+
+.navbar a:focus{
+	color: #fff;
+}
+
+.about-container{
+	width: 100%;
+	padding: 33px;
+	background: rgba(0, 0, 0, 0.5);
+	color: #fff;
+	text-align: center;
+}
+
+.row-about{
+	padding-top: 16%;
+	padding-bottom: 16%;
+	height: 80%;
+}
+
+.btn-next{
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 1px solid #fff;
+	background: rgba(0,0,0, 0.4);
+	color: #fff;
+}
+
+.btn-next:hover{
+	background: #3dd1e3;
+	border: 1px solid #3dd1e3;
+}
+
+.feature-container{
+	width: 100%;
+	padding: 90px;
+	background: #fff;
+	color: #363635;
+	text-align: center;
+}
+
+.row-feature h5{
+	color: #3dd1e3;
+}
+
+.row-feature .col-sm-4{
+	padding: 30px;
+}
+
+.feature-btn-next{
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 1px solid #363635;
+	background: #fff;
+	color: #363635;
+}
+
+.feature-btn-next:hover{
+	background: #3dd1e3;
+	color: #fff;
+	border: 1px solid #3dd1e3;
+}
+
+.signup-container{
+	color: #fff;
+	width: 100%;
+	padding: 100px;
+	background: #3dd1e3;
+
+}
+
+.signup-btn-next{
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 1px solid #fff;
+	background: none;
+	color: #fff;
+}
+
+.signup-btn-next:hover{
+	background: #fff;
+	color: #3dd1e3;
+	border: 1px solid #fff;
+}
+
+.team-container{
+	width: 100%;
+	background:#363635;
+	text-align: center;
+	color: #fff;
+}
+
+.team-container img{
+	height: 128px;
+	width: 128px;
+}
+
+.team-row-next{
+	color: #fff;
+	margin-top: 90px;
+	padding: 10px;
+}
+
+.team-row-next a{
+	color: inherit;
+}
+
+.team-row-next a:hover{
+	color: inherit;
+}
+
+.team-row-next:hover{
+	background: #fff;
+	color: #363635;
+}
+
+.team-next-button{
+	border-radius: 3px;
+	height: 10px;
+	margin-left: 45%;
+	margin-right: 45%;
+	background: rgba(0, 0, 0, 0.6);
+}
+
