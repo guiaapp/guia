@@ -48,7 +48,8 @@ h1, h2, h3, h4, h5, h6{
 
 .about-container{
 	width: 100%;
-	padding: 33px;
+	padding-top: 33px;
+	padding-bottom: 33px;
 	background: rgba(0, 0, 0, 0.5);
 	color: #fff;
 	text-align: center;
@@ -75,7 +76,8 @@ h1, h2, h3, h4, h5, h6{
 
 .feature-container{
 	width: 100%;
-	padding: 90px;
+	padding-top: 90px;
+	padding-bottom: 90px;
 	background: #fff;
 	color: #363635;
 	text-align: center;
@@ -106,7 +108,8 @@ h1, h2, h3, h4, h5, h6{
 .signup-container{
 	color: #fff;
 	width: 100%;
-	padding: 100px;
+	padding-top: 100px;
+	padding-bottom: 100px;
 	background: #3dd1e3;
 
 }
