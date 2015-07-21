@@ -145,6 +145,10 @@ h1, h2, h3, h4, h5, h6{
 	width: 128px;
 }
 
+.team-container h6{
+	color: #3dd1e3;
+}
+
 .team-row-next{
 	color: #fff;
 	margin-top: 90px;
