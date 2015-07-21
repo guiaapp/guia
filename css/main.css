@@ -44,6 +44,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .about-container{
+	height: 768px;
 	width: 100%;
 	padding-top: 33px;
 	padding-bottom: 33px;
@@ -52,12 +53,7 @@ h1, h2, h3, h4, h5, h6{
 	background-size: cover;
 	background-image: url(../img/bg/banaue.jpg);
 	background-repeat: no-repeat;
-}
 
-.about-bg{
-	height: 100%;
-	width: 100%;
-	background: rgba(0, 0, 0, 0.7);
 }
 
 .row-about{
